@@ -1,13 +1,14 @@
 import java.util.Random;
 
 //Versione 7
+//Star Platinum [The World]
 
 public class Robot {
 
 	private String nome;
 	public final String uscita="Ciao";
 	private String[] risposte={};
-	private final String[] risFisse={"Meditiamo...","Questa domanda non mi compete...come le figlie femmine...","Domande mediocri da seccenti mediocri...","Master è la via!","Ovviamente, se lo dice Master!","No! Solo un falso profeta divulgherebbe certi sermoni seccenti!"};
+	private final String[] risFisse={"Meditiamo...","Questa domanda non mi compete...come le figlie femmine...","Domande mediocri da seccenti mediocri...","Master Ã¨ la via!","Ovviamente, se lo dice Master!","No! Solo un falso profeta divulgherebbe certi sermoni seccenti!"};
 	private int contaris=0;
 	private Random r;
 	
