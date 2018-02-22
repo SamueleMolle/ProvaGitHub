@@ -1,6 +1,6 @@
 import java.util.Random;
 
-//Versione 6
+//Versione 7
 
 public class Robot {
 
